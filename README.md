@@ -5,7 +5,7 @@
 [![Model Context Protocol](https://img.shields.io/badge/MCP-Standard_1.0-10B981?style=for-the-badge)](https://modelcontextprotocol.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![Python](https://img.shields.io/badge/Python-FastMCP-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-
+[![M8ven Score](https://m8ven.ai/badge/mcp/aaravrai2006-svg-mcp-postgres-memory-server-1b8kqf?v=46555ee3afe3ad9e052cfb82a891ece6)](https://m8ven.ai/mcp/aaravrai2006-svg-mcp-postgres-memory-server-1b8kqf?s=readme)
 <p align="center">
   <b>A production-grade Model Context Protocol (MCP) server equipping LLMs (Claude, Gemini, Antigravity) with long-term episodic memory, entity graphs, and contextual search.</b>
 </p>
